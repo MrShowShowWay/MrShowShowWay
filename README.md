@@ -7,4 +7,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg
+[![Show Show Way's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrShowShowWay)](https://github.com/anuraghazra/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7BD9F7&background=6825FF00&center=true&vCenter=true&lines=%E8%83%BD%E4%B8%8D%E8%83%BDshow+show+way+%E5%95%8A;How+dare+u%3F+dude)](https://git.io/typing-svg)
